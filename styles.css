@@ -1,0 +1,66 @@
+.logo {
+    width: 50%;
+    margin: auto;
+    display: block;
+}
+body {
+    background-color: #efefef;
+}
+.header {
+    background-color: #ffcb41;
+}
+.linha {
+    background-color: black;
+    height: 8px;
+}
+.footer {
+    margin-bottom: 7%;
+}
+.linhaFooter {
+    background-color: #ffcb41;
+    height: 8px;
+    width: 950px;
+    margin: auto;
+    display: block;
+    margin-bottom: 3%;
+    margin-top: 10%;
+}
+.lanche {
+    margin: auto;
+    display: block;
+    width: 50%;
+    margin-top: 5%;
+}
+.hamburguer {
+    width: 50%;
+}
+.acompanhamento {
+    margin: auto;
+    display: block;
+    width: 50%;
+    margin-top: 5%;
+}
+.acompanhamentoP {
+    width: 50%;
+}
+
+.bebida {
+    margin: auto;
+    display: block;
+    width: 50%;
+    margin-top: 5%;
+}
+.bebidaP {
+    width: 50%;
+}
+.info {
+    width: 50%;
+    font-size: 19px;
+    font-weight: bold;
+}
+.info2 {
+    width: 50%;
+    font-size: 19px;
+    font-weight: bold;
+    text-align: end;
+}
